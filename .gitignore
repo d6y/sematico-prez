@@ -1,0 +1,18 @@
+# Files
+.DS_Store
+.cache
+.classpath
+.project
+
+# Directories
+/bin/
+/target/
+/project/target/
+/.settings/
+/.worksheet/
+/.idea/
+/.idea_modules/
+
+# Absolute directories
+/project/boot/
+
